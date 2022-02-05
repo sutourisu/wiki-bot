@@ -1,2 +1,2 @@
 # wiki-bot
-wikipedia bot
+wikipedia bot on python for telegram
